@@ -10,8 +10,8 @@ const router = express.Router();
 
 // Hardcoded admin credentials (in production, this should be in a database)
 const ADMIN_CREDENTIALS = {
-  username: "karimabdelaziz",
-  password: "karimabdelziz81", // This will be hashed
+  username: "Karimabdelaziz",
+  password: "Karimabdelaziz2704", // This will be hashed
   role: "admin",
 };
 
